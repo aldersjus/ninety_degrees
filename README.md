@@ -11,7 +11,7 @@ It is a simple app, but I wanted to do a complete Flutter build including publis
   <img src="https://github.com/aldersjus/aldersjus.github.io/blob/master/images/upload2.png" width="250"/>
 </p>
 
-##### PlayStore:
+### PlayStore:
 <a  href="https://play.google.com/store/apps/details?id=io.github.aldersjus.degrees"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="170"/></a>
 
 ## Getting Started with Flutter
