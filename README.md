@@ -6,7 +6,7 @@ The app is a right angle triangle calculator.
 It is a simple app, but I wanted to do a complete Flutter build including publishing to Google Play.
 
 <p align="center">
-  <img src="https://github.com/aldersjus/aldersjus.github.io/tree/master/images/upload.png" width="250"/>
+  ![alt text]("https://github.com/aldersjus/aldersjus.github.io/tree/master/images/upload.png")
   <img src="https://github.com/aldersjus/ninety_degrees/tree/master/android/app/src/main/res/drawable/degrees_splash.png" width="250"/>
   <img src="https://github.com/aldersjus/aldersjus.github.io/tree/master/images/upload2.png" width="250"/>
 </p>
