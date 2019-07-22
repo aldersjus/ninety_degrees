@@ -8,7 +8,7 @@ It is a simple app, but I wanted to do a complete Flutter build including publis
 <p align="center">
   <img src="https://github.com/aldersjus/aldersjus.github.io/raw/develope/upload.png" width="250"/>
   <img src="https://github.com/aldersjus/ninety_degrees/tree/master/android/app/src/main/res/drawable/degrees_splash.png" width="250"/>
-  <img src="https://github.com/aldersjus/aldersjus.github.io/tree/master/images/upload2.png" width="250"/>
+  <img src="https://github.com/aldersjus/aldersjus.github.io/blob/master/images/upload2.png" width="250"/>
 </p>
 
 ##### PlayStore:
